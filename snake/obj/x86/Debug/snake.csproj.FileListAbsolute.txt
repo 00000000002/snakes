@@ -1,0 +1,6 @@
+F:\c#\snake\bin\Debug\ConsoleApplication.exe
+F:\c#\snake\bin\Debug\ConsoleApplication.pdb
+F:\c#\snake\obj\x86\Debug\snake.csproj.AssemblyReference.cache
+F:\c#\snake\obj\x86\Debug\snake.csproj.CoreCompileInputs.cache
+F:\c#\snake\obj\x86\Debug\ConsoleApplication.exe
+F:\c#\snake\obj\x86\Debug\ConsoleApplication.pdb
